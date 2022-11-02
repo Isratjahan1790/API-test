@@ -6,13 +6,18 @@
 Postman / Newman /  HTML / json / javascript
 
 #### 💫 About this test:
-Here I am test student details, recieve and update the details.
+Here tested student details, create, recieve and update, authenticate and delete. Using POST, PUT, GET and DELETE method.
 #### 👯 HTML report:
 Here I am using "command promt" and install "Newman". Then write command.<br><br>
-### Command = newman run PracticeAPI.postman_collection.json -e PracticeAPI.postman_environment.json -r cli,html
 
+### 🌱 Command =  newman run PracticeAPI.postman_collection.json -e PracticeAPI.postman_environment.json -r cli,htmlextra
+![html extra](https://user-images.githubusercontent.com/112747904/199401032-a4b0b574-744d-4c23-b5fd-70dcc0e7909e.PNG)
 
-### Command =  newman run PracticeAPI.postman_collection.json -e PracticeAPI.postman_environment.json -r cli,htmlextra
+### 🌱 Command = newman run PracticeAPI.postman_collection.json -e PracticeAPI.postman_environment.json -r cli,html
+![html1](https://user-images.githubusercontent.com/112747904/199401141-3b183d68-1029-439d-8d69-55cbd876cc4c.PNG)
+![html2](https://user-images.githubusercontent.com/112747904/199401131-23b21dab-e75e-4250-880e-dbcbba4bb2eb.PNG)
+![html3](https://user-images.githubusercontent.com/112747904/199401137-7c469d73-0b59-4271-bf79-a05d929cd711.PNG)
+
 
 
 #### 💻 Used Application:
